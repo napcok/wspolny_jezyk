@@ -1,2 +1,2 @@
-# wspolny_jezyk
-Podstawowe ustalena dla systemu licytacyjnego
+# wspólny język
+Podstawowe ustalenia dla systemu licytacyjnego.
