@@ -8,6 +8,7 @@
     * [Dwukolorowe 2 BA](licytacja/2ba.md)
     * [Otwarcia 3 w kolor](licytacja/3color.md)
     * [Otwarcie 3 BA](licytacja/3ba.md)
+    * [Konwencje bezatutowe - Stayman i Texas](licytacja/staymantexas.md)
 * [Rozgrywka](rozgrywka/README.md)
 
 * [Wist](wist/README.md)
